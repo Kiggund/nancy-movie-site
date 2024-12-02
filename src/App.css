@@ -111,6 +111,10 @@ body {
   padding-top: 60px;
 }
 
+.sidebar.active{
+  background-color: rgb(238, 237, 241);
+}
+
 .left-menu-icon {
   color: white;
   font-size: 20px;
@@ -270,10 +274,6 @@ body {
   background-color: white;
 
   color: black;
-}
-
-.sidebar.active{
-    background-color: white;
 }
 
 .left-menu-icon.active{
